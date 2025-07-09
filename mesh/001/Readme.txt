@@ -1,0 +1,1 @@
+Place the Teeth model in this folder, with each tooth named according to its FDI number.

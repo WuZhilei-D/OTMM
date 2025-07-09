@@ -1,0 +1,1 @@
+Place the intraoral photos in the 'original' subfolder, and save the contour extraction results of the VOC-format intraoral images in the current folder.
