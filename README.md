@@ -17,6 +17,7 @@ Overview of the remote orthodontic tooth movement monitoring framework using pos
 </p>
 
 ## Reconstruction result
+Multiview contour fitting results for orthodontic monitoring (clinician-acquired data). Columns sequentially show: original intraoral image; overlay of projected model silhouette (blue) and the ground-truth contour (green) before fitting; overlay after contour fitting; semi-transparent projection of the tooth model from pose inversion results overlaid on the original image; and the error map between estimated tooth model and the ground-truth intraoral scan.
 <p align="center">
     <img src=".\log\assets\monitoring_results.jpg" alt="teeth monitoring results" width="800"/>
 </p>
