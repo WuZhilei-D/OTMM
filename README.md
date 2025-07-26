@@ -1,7 +1,7 @@
 # Pose inversion guided by multi-view contours for high-precision orthodontic tooth movement monitoring
 
-## preprocessing
-Tooth Coordinate System Establishment - Please refer to ToothCoordinate.py
+## Preprocessing
+Tooth coordinate system establishment - Please refer to ToothCoordinate.py
 
 ## Usage
 1） Put the intraoral iamges and its contour extraction results of VOC-format into the folder in ./label.
